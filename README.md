@@ -143,6 +143,4 @@ Each table has a primary key index on the `id` column for unique identification.
 - **Server**: MariaDB 10.4.22
 - **PHP Version**: 8.1.2
 
----
-
-This integrated format now includes the database structure documentation alongside the application functionalities, providing a comprehensive overview of both the system's capabilities and its underlying data architecture. Adjust details as necessary based on specific configurations or additional features implemented in your project.
+ 
