@@ -1,4 +1,4 @@
-<img width="960" alt="Screenshot 2024-07-15 200905" src="https://github.com/user-attachments/assets/5de175c2-9b72-40b1-9d13-957bdc73e5da"> Certainly! Here's how you can integrate the database structure documentation into the previous documentation format for your Online Book Mart project:
+
 
 ---
 
@@ -33,6 +33,7 @@ user dashbord
  <img width="960" alt="Screenshot 2024-07-15 200943" src="https://github.com/user-attachments/assets/7a24d3ce-27ba-40b1-b932-091320de832e">
 
  <img width="960" alt="Screenshot 2024-07-15 200957" src="https://github.com/user-attachments/assets/f4e1b80a-d0d9-4f94-be06-5f7cc4299ede">
+ <img width="960" alt="Screenshot 2024-07-15 200905" src="https://github.com/user-attachments/assets/5de175c2-9b72-40b1-9d13-957bdc73e5da"> 
   admin dashboard
   
 <img width="960" alt="Screenshot 2024-07-15 201105" src="https://github.com/user-attachments/assets/8297f0c5-6e57-4f0e-87a9-edcbf4847774">
